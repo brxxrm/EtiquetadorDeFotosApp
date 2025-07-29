@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Estado presionado: un rosa un poco más vibrante para el feedback visual -->
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="@color/primary_color"
+                android:endColor="@color/accent_color"
+                android:angle="135" /> <!-- ¡Aquí estaba el error! Faltaba el / -->
+            <corners android:radius="32dp" />
+        </shape>
+    </item>
+
+    <!-- Estado normal: un rosa claro y suave -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="@color/primary_light"
+                android:endColor="@color/accent_light"
+                android:angle="135" /> <!-- ¡Y aquí también! Faltaba el / -->
+            <corners android:radius="32dp" />
+        </shape>
+    </item>
+</selector>

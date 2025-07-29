@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#FF4081</color>
+    <color name="primary_dark">#C51162</color>
+    <color name="primary_light">#FF80AB</color>
+
+    <color name="accent_color">#FFC107</color>
+    <color name="accent_dark">#FF8F00</color>
+    <color name="accent_light">#FFECB3</color>
+
+    <color name="gradient_start">#FF80AB</color>
+    <color name="gradient_middle">#FF4081</color>
+    <color name="gradient_end">#C51162</color>
+
+
+    <color name="card_stroke">#FF80AB</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="background_color">#FFF0F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+
+    <color name="error_color">#D32F2F</color>
+    <color name="instagram_button_color">#E1306C</color>
+</resources>

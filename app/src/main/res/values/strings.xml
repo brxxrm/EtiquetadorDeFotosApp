@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Etiquetador de Fotos</string>
+    <string name="header_title"> FotoGless</string>
+    <string name="header_subtitle">✨ Un google Lens pero chafa xd</string>
+    <string name="image_content_description">Imagen seleccionada</string>
+    <string name="empty_image_prompt">💕 Selecciona una imagen\npara comenzar</string>
+    <string name="select_image_button_text">Seleccionar Imagen</string>
+    <string name="take_photo_button_text">Tomar Foto</string>
+    <string name="processing_text">🔄 Analizando imagen...</string>
+    <string name="results_header">🎯 Objetos Detectados</string>
+    <string name="confidence_label">Confianza Mínima:</string>
+    <string name="confidence_high">🎯 Muy Confiable</string>
+    <string name="confidence_medium">✅ Confiable</string>
+    <string name="confidence_low">⚠️ Moderado</string>
+    <string name="no_results_found">🔍 No se detectaron objetos reconocibles en la imagen.\n\n💡 Intenta con una imagen más clara o con objetos más definidos.</string>
+    <string name="no_results_confidence_label">❓ Sin resultados</string>
+    <string name="error_label">⚠️ Error</string>
+    <string name="error_loading_image">Error al cargar la imagen: %s</string>
+    <string name="error_processing_image">Error al procesar la imagen: %s</string>
+    <string name="error_initializing_app">Error al inicializar la app: %s</string>
+    <string name="error_finding_views">Error al encontrar vistas: %s</string>
+    <string name="objects_detected_snackbar">✅ Se detectaron %d objetos</string>
+    <string name="powered_by_mlkit">💖 Powered by Tortolitos</string>
+    <string name="share_results_button_text">Compartir Resultados</string>
+    <string name="share_title">Resultados de Etiquetado de Fotos</string>
+    <string name="share_text_format">Resultados de la imagen:\n\n%s</string>
+    <string name="error_taking_photo">No se pudo tomar la foto. Intenta de nuevo.</string>
+    <string name="error_creating_file">Error al crear el archivo de imagen temporal.</string>
+    <string name="error_camera_setup">Error al configurar la cámara: %s</string>
+    <string name="instagram_dialog_title">Conoce a los Tortolitos</string>
+    <string name="bryan_armando_name">Bryan Armando)</string>
+    <string name="lizbeth_rodriguez_name">Lizbeth Rodriguez</string>
+    <string name="instagram_bryan_url">https://www.instagram.com/brx.xrm/</string>
+    <string name="instagram_lizbeth_url">https://www.instagram.com/lizbug500/</string>
+</resources>
