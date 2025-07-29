@@ -1,10 +1,10 @@
-# 💖 Etiquetador de Fotos (FotoGlees)
+# 💖 FotoGlees
 
 ✨ Una aplicación Android inteligente para identificar objetos en tus imágenes, con integración de cámara y enlaces a los creadores.
 
 ## 📸 Descripción del Proyecto
 
-"Etiquetador de Fotos" (o "FotoGlees") es una aplicación móvil Android diseñada para analizar imágenes y detectar objetos dentro de ellas utilizando el poder de la Inteligencia Artificial (IA) a través de ML Kit de Google. Permite a los usuarios seleccionar imágenes de su galería o tomar fotos directamente con la cámara del dispositivo, y luego muestra etiquetas de los objetos identificados con su nivel de confianza.
+"FotoGlees es una aplicación móvil Android diseñada para analizar imágenes y detectar objetos dentro de ellas utilizando el poder de la Inteligencia Artificial (IA) a través de ML Kit de Google. Permite a los usuarios seleccionar imágenes de su galería o tomar fotos directamente con la cámara del dispositivo, y luego muestra etiquetas de los objetos identificados con su nivel de confianza.
 
 Además, como un toque personal, la aplicación incluye una sección "Powered by Tortolitos" que, al hacer clic, revela los perfiles de Instagram de los desarrolladores.
 
