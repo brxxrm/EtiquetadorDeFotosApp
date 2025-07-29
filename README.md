@@ -15,7 +15,6 @@
 *   **Nivel de Confianza Ajustable:** Controla la sensibilidad del reconocimiento de objetos mediante una barra deslizante.
 *   **Resultados Claros:** Muestra los objetos detectados con emojis, nombres traducidos al español y porcentajes de confianza.
 *   **Compartir Resultados:** Comparte fácilmente las etiquetas detectadas con otras aplicaciones.
-*   **Créditos Personalizados:** Accede a los perfiles de Instagram de los creadores de la aplicación.
 
 ## 🚀 Tecnologías Utilizadas
 
@@ -68,23 +67,10 @@ Para configurar y ejecutar este proyecto en tu entorno de desarrollo:
 ## 👥 Autores
 
 *   **Bryan Armando Granados Hernandez**
-    *   Instagram: [@brx.xrm](https://www.instagram.com/brx.xrm/)
 *   **Lizbeth Rodriguez Roman**
-    *   Instagram: [@lizbug500](https://www.instagram.com/lizbug500/)
 
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 *(Si no tienes un archivo LICENSE, puedes crearlo en la raíz de tu proyecto con el texto de la licencia MIT o la que prefieras.)*
 
----
-
-**Pasos para añadir este `README.md` a tu repositorio existente:**
-
-1.  Guarda el contenido de arriba en un archivo llamado `README.md` en la **raíz de tu proyecto** (la misma carpeta donde está `build.gradle`).
-2.  Abre tu terminal en la raíz del proyecto.
-3.  Ejecuta: `git add README.md`
-4.  Ejecuta: `git commit -m "Add README.md with project documentation"`
-5.  Ejecuta: `git push origin main` (o el nombre de tu rama principal, si es diferente).
-
-¡Con esto, tu proyecto estará muy bien documentado en GitHub!
