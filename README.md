@@ -23,7 +23,7 @@
 *   [Autores](#-autores)
 
 
-## 🌟 ¡Bienvenido al Universo FotoGlees! 🌟
+## 🌟 ¡Bienvenido a FotoGlees! 🌟
 
 ¿Cansado de ver fotos y no saber qué demonios hay en ellas? ¡No más! **FotoGlees** es tu nuevo mejor amigo en Android, una aplicación que no solo etiqueta objetos en tus imágenes, sino que lo hace con estilo y la potencia de la **Inteligencia Artificial de Google ML Kit**. Olvídate de los "Google Lens" aburridos, ¡esto es un "Google Lens pero chafa xd" con todo el sabor y la chispa de los **Tortolitos**!
 
@@ -99,7 +99,7 @@ Aquí te mostramos cómo está organizado este monstruo de aplicación:
 └── ... (otros archivos de configuración de Gradle y Git)
 \`\`\`
 
-## ⚙️ ¡Lanza FotoGlees en 3, 2, 1...! (Configuración y Ejecución):
+## ⚙️ Configuración y Ejecución:
 
 ¿Listo para ver la magia en acción? Sigue estos sencillos pasos:
 
@@ -127,12 +127,12 @@ Aquí te mostramos cómo está organizado este monstruo de aplicación:
     *   `app/src/main/res/drawable/ic_instagram.xml` (y todos los demás `drawable` que usamos para los gradientes y estilos).
     *   `app/src/main/res/xml/file_paths.xml` (¡Sin este, la cámara no funciona bien!).
 
-5.  **¡A Correr! (Ejecuta la Aplicación):**
+5.  **Ejecuta la Aplicación:**
     *   Conecta tu dispositivo Android (¡con depuración USB activada!) o inicia un emulador.
     *   Haz clic en el botón `Run` (el triángulo verde) en la barra de herramientas de Android Studio.
     *   ¡Observa cómo FotoGlees se instala y cobra vida en tu dispositivo!
 
-## 💡 Cómo Dominar FotoGlees (Guía de Uso):
+## 💡 Guía de Uso:
 
 Una vez que la app esté rugiendo en tu dispositivo
 
